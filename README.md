@@ -1,5 +1,5 @@
 # TDD-type-express
-This is a test driven development configured express server. Developed using node-express with typeScript,mongoose and mongodb for api development and Jest with Supertest for API test.
+This is a test driven development configured express-typeScript server. Developed using node-express with typeScript,mongoose and mongodb for api development and Jest with Supertest for API test.
 
 install process 
   1.npm install
